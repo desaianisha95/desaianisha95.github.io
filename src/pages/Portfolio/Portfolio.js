@@ -1,10 +1,10 @@
 import React, { Component } from "react";
 import Carousel from "react-bootstrap/Carousel";
-import Slide1 from "/Users/swetashah/portfolio/src/slide1/Slide1.webp"
-import Slide2 from "/Users/swetashah/portfolio/src/slide2/Slide2.webp";
-import Slide3 from "/Users/swetashah/portfolio/src/slide3/Slide3.webp";
-import styles from './portfolio.module.css'
-import TitleMessage from "/Users/swetashah/portfolio/src/components/TitleMessage"
+import Slide1 from "../../slide1/Slide1.webp"
+import Slide2 from "../../slide2/Slide2.webp";
+import Slide3 from "../../slide3/Slide3.webp";
+import styles from './portfolio.module.css';
+import TitleMessage from "../../components/TitleMessage"
 
 
 class Portfolio extends Component {

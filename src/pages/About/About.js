@@ -1,7 +1,7 @@
 import React from "react";
 
 //import "./about.styles.css";
-import assests from "/Users/swetashah/portfolio/src/assests/Anisha.webp"
+import assests from "../../assests/Anisha.webp"
 
 import Button from 'react-bootstrap/Button'
 import background from "/Users/swetashah/portfolio/src/background/background.webp"

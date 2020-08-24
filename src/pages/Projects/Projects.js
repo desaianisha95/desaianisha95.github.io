@@ -2,9 +2,9 @@ import React from 'react';
 import { Timeline, Events, UrlButton, ImageEvent } from "@merc/react-timeline";
 import Accordion from 'react-bootstrap/Accordion';
 import Card from "react-bootstrap/Card";
-import react from "/Users/swetashah/portfolio/src/assests/skills/react.svg"
-import redux from "/Users/swetashah/portfolio/src/assests/skills/redux.svg"
-import bootstrap from "/Users/swetashah/portfolio/src/assests/skills/bootstrap.svg";
+import react from "../../assests/skills/react.svg"
+import redux from "../../assests/skills/redux.svg"
+import bootstrap from "../../assests/skills/bootstrap.svg";
 import Image from "react-bootstrap/Image";
 import "./Projects.style.css";
 

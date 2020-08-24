@@ -5,7 +5,7 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 import CustomNavbar from './components/CustomNavbar';
 import About from './pages/About/About'
 import Education from './pages/Education/Education'
-import Projects from '/Users/swetashah/portfolio/src/pages/Projects/Projects'
+import Projects from './pages/Projects/Projects'
 import Skills from './pages/Skills/Skills'
 import { BrowserRouter as Router, Route ,Switch} from 'react-router-dom'
 import Portfolio from './pages/Portfolio/Portfolio';
