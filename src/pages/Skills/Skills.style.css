@@ -1,0 +1,58 @@
+.focus {
+    -webkit-transition: -webkit-transform .3s;
+    transition: -webkit-transform .3s;
+    transition: transform .3s;
+    transition: transform .3s,-webkit-transform .3s;
+}
+  
+  .focus:hover {
+    transform: scale(1.05);
+  }
+  
+  .card-title {
+    font-size: 2em;
+    font-weight: 700;
+  }
+  
+  .image-style {
+    width: 20%;
+    padding: .05rem; 
+ }
+  
+  /* .font-details {
+    font-size: 8em;
+    font-weight: 500;
+    color: #231d5af8;
+  } */
+  
+  .fontdetails {
+    font-size: 80px;
+    font-weight: 300;
+    color:black;
+   text-align: center;
+   padding-top: 3px;
+   padding-bottom: 3px;
+
+  }
+
+  .container {
+    display:flex;
+    padding: 2em;
+    padding-right: 4rem;
+    align-content: center;
+
+    /* vertical-align: top; */
+  }
+
+  .h3{
+    margin-top:15px;
+  }
+
+
+  /* .card-body{
+    flex: 1 1 auto;
+    min-height: 1px;
+    padding: 1.25rem;
+  } */
+
+  
